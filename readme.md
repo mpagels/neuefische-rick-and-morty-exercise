@@ -35,7 +35,7 @@ The main contains the `cards` with the content from the api.
 
 In this exercises you will learn to read something, someone wrote for you, to try to explain how to use his or her code (or app).
 
-Read the documentation really well. It is everything in there.
+Read the api documentation really well. It is everything in there.
 
 Remember. You just getting data. What you are doing with it, is up to you!
 
