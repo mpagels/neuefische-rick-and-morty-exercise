@@ -2,7 +2,7 @@
 
 Use the [Rick and Morty API](https://rickandmortyapi.com/) to fetch data and render it to your app.
 
-To start use [this template](https://github.com/namirsab/vite-vanilla-js-template) and follow the steps in the readme
+To start use [this template](https://github.com/mpagels/vite-vanilla-js-template) and follow the steps in the readme
 
 `Deploy` your app to vercel so you can send it to your family & friends.
 
